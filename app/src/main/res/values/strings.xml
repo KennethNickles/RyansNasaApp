@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Workday NASA App</string>
+    <string name="list_error_msg">Error loading images!</string>
+    <string name="list_empty_msg">No results</string>
+    <string name="list_search_placeholder">Try a search, maybe Saturn?</string>
+</resources>
